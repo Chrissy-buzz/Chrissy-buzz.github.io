@@ -1,6 +1,6 @@
 # Chrissy-buzz.github.io
 
-Personal Portfolio WebPage
+Personal Portfolio Webpage
 
 ![Imgur Image](https://i.imgur.com/QxC9gme.png)
 ![Imgur Image](https://i.imgur.com/9yZCdTI.png)

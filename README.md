@@ -2,6 +2,4 @@
 
 Personal Portfolio Webpage
 
-![Imgur](https://imgur.com/dB0GkwM)
-
-
+![Imgur](http://i.imgur.com/zTONrOD.jpg)

@@ -2,4 +2,4 @@
 
 Personal Portfolio Webpage
 
-![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
+![image](https://drive.google.com/uc?export=view&id=1bg2sE81HhLYSI8u6jiDqFnm9_KKj-CqZ)

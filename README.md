@@ -2,4 +2,4 @@
 
 Personal Portfolio Webpage
 
-# <img alt="YAP" src="https://imgur.com/gGD3hzi">
+# <img alt="YAP" src="[Imgur](https://imgur.com/gGD3hzi)">

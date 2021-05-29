@@ -1,3 +1,12 @@
+$(".page-header ul a").on("click", function (e) {
+  // 1
+  e.preventDefault();
+  // 2
+  const href = $(this).attr("href");
+  // 3
+  $("html, body").animate({ scrollTop: $(href).offset().top }, 800);
+});
+
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap" rel="stylesheet">
 <link rel= "stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -5,16 +14,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-scroll-behavior: smooth;
-  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-            behavior: 'smooth'
-        });
-    });
-});
   
 <head>
 <link rel="stylesheet" href="style.css" /></head>

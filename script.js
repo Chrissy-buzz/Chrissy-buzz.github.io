@@ -1,3 +1,4 @@
+<script>
 window.scroll({
   top: 2500, 
   left: 0, 
@@ -15,3 +16,5 @@ window.scrollBy({
 document.querySelector('.hello').scrollIntoView({ 
   behavior: 'smooth' 
 });
+
+</script>

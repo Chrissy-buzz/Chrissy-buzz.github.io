@@ -139,7 +139,7 @@ p1{
     text-align: center;
     font-family: Zilla Slab;
     font-size: 30px;
-}
+scroll-behavior: smooth;}
 
 .me{
    border-radius:500px;
@@ -153,6 +153,7 @@ p1{
   text-align: center;
     font-family: Zilla Slab;
     font-size: 30px;
+	scroll-behavior: smooth;
 }
 
 .ucf{
@@ -175,6 +176,7 @@ p1{
   text-align: center;
   font-family: Zilla Slab;
   font-size: 30px;
+	scroll-behavior: smooth;
 
 }
 
@@ -183,6 +185,7 @@ p1{
 font-family: Zilla Slab;
   font-size: 30px;
   text-align:center;
+	scroll-behavior: smooth;
 }
 
 h2 {
